@@ -1,0 +1,65 @@
+div#icons{
+	margin-top: 100px;
+	display: block;
+	margin: 100px 400px 100px 400px;
+}
+div#icons .clear{
+	clear: both;
+}
+div#icons img{
+	width: 100px;
+	height: 100px;
+	padding: 35px;
+	float: left;
+}
+div#contents{
+	margin: 0px 400px 0px 400px;
+}
+div#contents .content{
+	float: left;
+	margin: 0;
+	width: 30px;
+	/*padding: 70px;*/
+	padding-left: 70px;
+	padding-right: 70px;
+	text-align: center;
+}
+.clear{
+	clear: both;
+}
+
+/*For Shop*/
+div#shop{
+	margin: 0 600px;
+}
+div#shop h1{
+	padding-top: 50px;
+	padding-bottom: 30px;
+	text-align: center;
+}
+
+/*div#icons{
+	margin-top: 300px;
+	margin-right: 300px;
+	margin-bottom: 100px;
+	margin-left: 300px;
+}
+div#icons img{
+	padding-left: 120px;
+	width: 90px;
+	height: 90px;
+	float: left;
+}
+.clear{
+	clear: both;
+}
+
+div#contents{
+	margin: 10px 450px 0px 450px;
+}
+
+div#contents .content p{
+	padding-left: 120px;
+	float: left;
+	text-align: center;
+}*/
